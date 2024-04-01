@@ -17,7 +17,7 @@ scoop install smithy-lang/smithy-cli
 
 ## Formulae
 
-| Repository                                      | Formula                          | Description                                                              |
+| Repository                                      | Manifest                          | Description                                                              |
 |-------------------------------------------------|----------------------------------|--------------------------------------------------------------------------|
 | [smithy-cli](https://github.com/smithy-lang/smithy) | [Manifest](bucket/smithy-cli.json) | A CLI for building, validating, querying, and iterating on Smithy models |
 
